@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basic</string>
+    <string-array name="countries">
+        <item>England</item>
+        <item>Netherlands</item>
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Finland</item>
+        <item>America</item>
+        <item>Thailand</item>
+        <item>China</item>
+        <item>Mexico</item>
+    </string-array>
+</resources>
